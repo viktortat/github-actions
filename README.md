@@ -1,4 +1,4 @@
-# GitHub Actions Part-1 Basics
+# GitHub Actions Basics
 
-Status of Last Deployment:<br>
+Статус последнего комита в мастер:<br>
 <img src="https://github.com/viktortat/github-actions/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
