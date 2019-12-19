@@ -3,7 +3,7 @@
 # Version      Date        Info
 # 1.0          2019        Initial Version
 
-name: GitHubActions-Основы
+name: GitHub_Actions_test
 env:
   APPLICATION_NAME: "MyFlask"
   DEPLOY_PACKAGE_NAME: "flask-deploy-ver-${{ github.sha }}"
